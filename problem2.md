@@ -35,7 +35,7 @@ $$
 \end{cases}
 $$
 
-Gọi n là tổng số mặt cắt của mô hình, giả sử n = 10, ta có $\delta z_1 = \frac{2 - 0}{10} = 0.2$, với mỗi $\delta z$, ta có 1 r tương ứng
+Gọi n là tổng số mặt cắt của mô hình, giả sử n = 10, ta có $\delta z_1 = \frac{2 - 0}{10} = 0.2$, ta có 10 r tương ứng
 
 Dựa vào hình vẽ:
 
