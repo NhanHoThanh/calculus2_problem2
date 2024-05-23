@@ -39,7 +39,9 @@ Gọi n là tổng số mặt cắt của mô hình, giả sử n = 10, ta có $
 
 Dựa vào hình vẽ:
 
+<p align="center">
 <img src="./image.png" width="500">
+</p>
 
 Ta thấy với $-1 \lt z \leq 0$, mặt cắt là 1 hình vành khăn, nên diện tính được tính bằng công thức: $S = \pi(r_1^2 - r_2^2)$
 
