@@ -45,10 +45,10 @@ Dựa vào hình vẽ:
 
 Ta thấy với $-1 \lt z \leq 0$, mặt cắt là 1 hình vành khăn, nên diện tính được tính bằng công thức: $S = \pi(r_1^2 - r_2^2)$
 
-Tổng diện tích của các mặt cắt từ `z = 0` đến `z = -1` là: $P_1 = \sum_{z=0}^{-1} \pi(r_1^2 - r_2^2)$
+Tổng diện tích của các lát cắt từ `z = 0` đến `z = -1` là: $P_1 = \sum_{z=0}^{-1} \pi(r_1^2 - r_2^2)$
 
-Với $-2 \lt z \leq -1$, mặt cắt là 1 hình tròn, tính bằng công thức: $S = \pi r_1^2$
+Với $-2 \lt z \leq -1$, lát cắt là 1 hình tròn, tính bằng công thức: $S = \pi r_1^2$
 
-Tổng diện tích của các mặt cắt từ `z = -1` đến `z = -2` là: $P_2 = \sum_{z=-1}^{-2} \pi r_1^2$
+Tổng diện tích của các lát cắt từ `z = -1` đến `z = -2` là: $P_2 = \sum_{z=-1}^{-2} \pi r_1^2$
 
-Vậy, diện tích bề mặt của khối $\Omega_2$ là: $S = P_1 + P_2$
+Vậy, diện tích các lát cắt của khối $\Omega_2$ là: $S = P_1 + P_2$
