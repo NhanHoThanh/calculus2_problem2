@@ -38,7 +38,7 @@ $$
 Gọi n là tổng số mặt cắt của mô hình, giả sử n = 10, ta có $\delta z_1 = \frac{2 - 0}{10} = 0.2$, với mỗi $\delta z$, ta có 1 r tương ứng
 
 Dựa vào hình vẽ:
-![Figure 1](./image.png)
+<img src="./image.png" width="500">
 
 Ta thấy với $-1 \lt z \leq 0$, mặt cắt là 1 hình vành khăn, nên diện tính được tính bằng công thức: $S = \pi(r_1^2 - r_2^2) (P_1)$
 
