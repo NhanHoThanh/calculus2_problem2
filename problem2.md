@@ -35,14 +35,18 @@ $$
 \end{cases}
 $$
 
-Gọi n là tổng số mặt cắt của mô hình, giả sử n = 10, ta có $\delta z_1 = \frac{2 - 0}{10} = 0.2$, ta có 10 r tương ứng
+Gọi n là tổng số mặt cắt của mô hình, giả sử n = 10, ta có $\delta z = \frac{2 - 0}{10} = 0.2$, ta có 10 r tương ứng
 
 Dựa vào hình vẽ:
 
 <img src="./image.png" width="500">
 
-Ta thấy với $-1 \lt z \leq 0$, mặt cắt là 1 hình vành khăn, nên diện tính được tính bằng công thức: $S = \pi(r_1^2 - r_2^2) (P_1)$
+Ta thấy với $-1 \lt z \leq 0$, mặt cắt là 1 hình vành khăn, nên diện tính được tính bằng công thức: $S = \pi(r_1^2 - r_2^2)$
 
-Với $-2 \lt z \leq -1$, mặt cắt là 1 hình tròn, tính bằng công thức: $S = \pi r_1^2 (P_2)$
+Tổng diện tích của các mặt cắt từ `z = 0` đến `z = -1` là: $P_1 = \sum_{z=0}^{z > -1} \pi(r_1^2 - r_2^2)$
+
+Với $-2 \lt z \leq -1$, mặt cắt là 1 hình tròn, tính bằng công thức: $S = \pi r_1^2$
+
+Tổng diện tích của các mặt cắt từ `z = -1` đến `z = -2` là: $P_2 = \sum_{z=-1}^{z>-2} \pi r_1^2$
 
 Vậy, diện tích bề mặt của khối $\Omega_2$ là: $S = P_1 + P_2$
