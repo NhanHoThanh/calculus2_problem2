@@ -26,7 +26,7 @@ $$
 \end{cases}
 $$
 
-Vậy, $-1 \leq z_1 \leq 0$ và $-2 \leq z_2 \leq 0$
+Vậy, $-2 \leq z_1 \leq 0$ và $-1 \leq z_2 \leq 0$
 
 $$
 \begin{cases}
